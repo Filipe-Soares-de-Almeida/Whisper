@@ -1,0 +1,1 @@
+Whisper é um chat estilo IRC (Internet Relay Chat) utilizando WebSocket para comunicação e PyQt5 para a interface gráfica (GUI).
